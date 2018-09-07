@@ -1,7 +1,4 @@
-# Sorting algorithms implemented as Array extension
-
-I implemented some sorting algorithms as extension of the Array data structure
-
+# Sorting algorithms implemented as Array extensions in Swift
 
 ### QuickSort
 ### HeapSort
