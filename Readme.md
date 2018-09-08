@@ -1,6 +1,12 @@
 # Sorting algorithms implemented as Array extensions in Swift
 
-### QuickSort
-### HeapSort
+## O(n2)
+
 ### BubbleSort
 ### SelectionSort
+### InsertionSort
+
+## O(nlogn)
+
+### QuickSort
+### HeapSort
