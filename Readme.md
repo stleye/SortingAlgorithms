@@ -10,3 +10,4 @@
 
 ### QuickSort
 ### HeapSort
+### MergeSort
