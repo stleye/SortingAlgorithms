@@ -1,12 +1,12 @@
 # Sorting algorithms implemented as Array extensions in Swift
 
-## O(n2)
+![nsquared] http://latex.codecogs.com/gif.latex?O%28n%5E%7B2%7D%29
 
 ### BubbleSort
 ### SelectionSort
 ### InsertionSort
 
-## O(nlogn)
+![nlogn] (http://latex.codecogs.com/gif.latex?O%28n%20%5Clog%20n%29)
 
 ### QuickSort
 ### HeapSort
